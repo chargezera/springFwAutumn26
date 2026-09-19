@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: springFwAutumn26
+
+app:
+  message: "DEFAULT profile"
+  max-items: 10
