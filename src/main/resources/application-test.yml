@@ -1,3 +1,5 @@
 app:
   message: "TEST profile"
   max-items: 5
+  notification:
+    enabled: false

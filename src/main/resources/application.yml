@@ -5,3 +5,5 @@ spring:
 app:
   message: "DEFAULT profile"
   max-items: 10
+  notification:
+    enabled: false
